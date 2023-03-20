@@ -124,7 +124,7 @@ echo "Nama : $nama";
 </html>
 ```
 ### **Output**
-<img src="./image/operator.png" style="margin: auto; width:400px;">
+<img src="./image/Operator.png" style="margin: auto; width:400px;">
 
 
 ## Latihan ke 5
